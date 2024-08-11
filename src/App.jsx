@@ -6,7 +6,7 @@ function App() {
     return (
     <>
     
-    <p> Hein !!!Plein le culllllll GITHUB LINK AHHHHH voilà la version pour push pull sur  gitHub</p>
+    <p> bon on y va Hein !!!Plein le culllllll GITHUB LINK AHHHHH voilà la version pour push pull sur  gitHub</p>
     <ButtonSub/>
     <Student name="AliceInWondeland" location="London" age={18} job="laboratory" isStudent={true} />
     <ButtonSub/>
