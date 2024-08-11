@@ -5,7 +5,8 @@ import ButtonSub from "./Button.jsx"
 function App() {
     return (
     <>
-    <p>AHHHHH voilà la version pour push pull sur  gitHub</p>
+    
+    <p>GITHUB LINK AHHHHH voilà la version pour push pull sur  gitHub</p>
     <ButtonSub/>
     <Student name="AliceInWondeland" location="London" age={18} job="laboratory" isStudent={true} />
     <ButtonSub/>
